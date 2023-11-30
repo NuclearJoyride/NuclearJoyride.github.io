@@ -113,7 +113,7 @@ beachfront.com, 7300, RESELLER
 keenkale.com, 1957,RESELLER
 inmobi.com, a980ed60d7ea4bbabb6173d2cd9d4db9, RESELLER,83e75a7ae333ca9d
 supply.colossusssp.com, 250, RESELLER, 6c5b49d96ec1b458
-vindicosuite.com, 6612, RESELLER, #ViantUS
+vindicosuite.com, 6612, RESELLER
 gumgum.com, 14158, RESELLER, ffdef49475d318a9
 mobilefuse.com, 2850, RESELLER
 bold-win.com, 705, RESELLER,71746737d0bab951
